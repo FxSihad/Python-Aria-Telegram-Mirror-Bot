@@ -50,7 +50,7 @@ log - Bot Log [owner only]
 
 - Clone this repo:
 ```
-git clone https://github.com/ishwar585/Python-Aria-Telegram-Mirror-Bot
+git clone https://github.com/FxSihad/Python-Aria-Telegram-Mirror-Bot
 cd Python-Aria-Telegram-Mirror-Bot
 ```
 
