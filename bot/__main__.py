@@ -59,7 +59,8 @@ def restart(update, context):
     execl(executable, executable, "-m", "bot")
 
 
-@run_async
+
+  @run_async
 def ping(update, context):
     start_time = int(round(time.time() * 1000))
     reply = sendMessage("Starting Ping", context.bot, update)
